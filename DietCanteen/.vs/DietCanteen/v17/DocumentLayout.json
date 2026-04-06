@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\menudata.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|solutionrelative:menudata.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|r:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\wpf\\dietcanteen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\adddishwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|solutionrelative:adddishwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\dailymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|solutionrelative:dailymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|solutionrelative:dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DietCanteen||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\adddishwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|solutionrelative:adddishwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|solutionrelative:ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\recipedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|solutionrelative:recipedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF9B7F3-BF0C-4EE2-AEFB-6821A55A0301}|DietCanteen.csproj|r:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\wpf\\dietcanteen\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-03T12:07:59.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddDishWindow.xaml",
+              "DocumentMoniker": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\AddDishWindow.xaml",
+              "RelativeDocumentMoniker": "AddDishWindow.xaml",
+              "ToolTip": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\AddDishWindow.xaml",
+              "RelativeToolTip": "AddDishWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-03T12:02:13.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAPsCAAAAAAAAAAAcwMACAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:12:33.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuData.xml",
+              "DocumentMoniker": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\MenuData.xml",
+              "RelativeDocumentMoniker": "MenuData.xml",
+              "ToolTip": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\MenuData.xml",
+              "RelativeToolTip": "MenuData.xml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwE8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-03-26T10:13:21.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DailyMenu.cs",
+              "DocumentMoniker": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\DailyMenu.cs",
+              "RelativeDocumentMoniker": "DailyMenu.cs",
+              "ToolTip": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\DailyMenu.cs",
+              "RelativeToolTip": "DailyMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:58:03.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DietCanteen",
+              "DocumentMoniker": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\DietCanteen.csproj",
+              "RelativeDocumentMoniker": "DietCanteen.csproj",
+              "ToolTip": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\DietCanteen.csproj",
+              "RelativeToolTip": "DietCanteen.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-04T10:29:07.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddDishWindow.xaml.cs",
+              "DocumentMoniker": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\AddDishWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AddDishWindow.xaml.cs",
+              "ToolTip": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\AddDishWindow.xaml.cs",
+              "RelativeToolTip": "AddDishWindow.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:08:59.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\Dish.cs",
+              "RelativeDocumentMoniker": "Dish.cs",
+              "ToolTip": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\Dish.cs",
+              "RelativeToolTip": "Dish.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:14:58.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:14:30.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecipeDetail.cs",
+              "DocumentMoniker": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\RecipeDetail.cs",
+              "RelativeDocumentMoniker": "RecipeDetail.cs",
+              "ToolTip": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\RecipeDetail.cs",
+              "RelativeToolTip": "RecipeDetail.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:16:21.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Ingredient.cs",
+              "ToolTip": "R:\\\u041F\u0420\u0410\u041A\u0422\u0418\u041A\u0410 \u0421#\\WPF\\DietCanteen\\Ingredient.cs",
+              "RelativeToolTip": "Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:15:49.549Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
