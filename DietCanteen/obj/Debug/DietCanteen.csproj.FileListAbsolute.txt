@@ -22,3 +22,24 @@ R:\ПРАКТИКА С#\WPF\DietCanteen\bin\Debug\PdfSharp.Charting.xml
 R:\ПРАКТИКА С#\WPF\DietCanteen\bin\Debug\de\PdfSharp.resources.dll
 R:\ПРАКТИКА С#\WPF\DietCanteen\bin\Debug\de\PdfSharp.Charting.resources.dll
 R:\ПРАКТИКА С#\WPF\DietCanteen\obj\Debug\DietCant.879BFFA3.Up2Date
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\bin\Debug\DietCanteen.exe
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\bin\Debug\DietCanteen.exe.config
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\bin\Debug\DietCanteen.pdb
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\bin\Debug\PdfSharp.Charting.dll
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\bin\Debug\PdfSharp.dll
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\bin\Debug\PdfSharp.xml
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\bin\Debug\PdfSharp.Charting.xml
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\obj\Debug\DietCanteen.csproj.AssemblyReference.cache
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\obj\Debug\MainWindow.baml
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\obj\Debug\MainWindow.g.cs
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\obj\Debug\App.g.cs
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\obj\Debug\DietCanteen_MarkupCompile.cache
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\obj\Debug\DietCanteen.g.resources
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\obj\Debug\DietCanteen.Properties.Resources.resources
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\obj\Debug\DietCanteen.csproj.GenerateResource.cache
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\obj\Debug\DietCanteen.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\obj\Debug\DietCant.879BFFA3.Up2Date
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\obj\Debug\DietCanteen.exe
+C:\Users\sasha\Documents\RITA\DietCanteen\DietCanteen\obj\Debug\DietCanteen.pdb

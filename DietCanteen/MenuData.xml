@@ -1,228 +1,186 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DietCanteen>
-	<Products>
-		<!-- Овощи -->
-		<Product name="Картофель" calories="77" protein="2.0" fat="0.4" carbs="16.3" />
-		<Product name="Морковь" calories="41" protein="0.9" fat="0.1" carbs="9.6" />
-		<Product name="Лук репчатый" calories="40" protein="1.4" fat="0.2" carbs="8.2" />
-		<Product name="Капуста белокочанная" calories="25" protein="1.8" fat="0.1" carbs="4.7" />
-		<Product name="Свекла" calories="43" protein="1.5" fat="0.1" carbs="9.6" />
-		<Product name="Помидоры" calories="20" protein="0.9" fat="0.2" carbs="3.8" />
-		<Product name="Огурцы" calories="15" protein="0.7" fat="0.1" carbs="2.5" />
-		<Product name="Болгарский перец" calories="27" protein="1.0" fat="0.2" carbs="5.3" />
-		<Product name="Кабачки" calories="24" protein="0.6" fat="0.3" carbs="4.6" />
-		<Product name="Брокколи" calories="34" protein="2.8" fat="0.4" carbs="6.6" />
-		<Product name="Цветная капуста" calories="25" protein="1.9" fat="0.3" carbs="4.5" />
-		<Product name="Салат Айсберг" calories="15" protein="1.2" fat="0.2" carbs="2.9" />
-		<Product name="Огурцы соленые" calories="11" protein="0.8" fat="0.1" carbs="1.8" />
-
-		<!-- Фрукты -->
-		<Product name="Яблоко" calories="52" protein="0.3" fat="0.2" carbs="13.8" />
-		<Product name="Лимон" calories="29" protein="0.9" fat="0.3" carbs="9.3" />
-
-		<!-- Мясо и птица -->
-		<Product name="Куриное филе" calories="165" protein="31.0" fat="3.6" carbs="0" />
-		<Product name="Говядина" calories="250" protein="26.0" fat="15.0" carbs="0" />
-		<Product name="Свинина нежирная" calories="320" protein="25.0" fat="24.0" carbs="0" />
-		<Product name="Индейка" calories="160" protein="30.0" fat="3.8" carbs="0" />
-		<Product name="Кролик" calories="173" protein="21.0" fat="8.0" carbs="0" />
-
-		<!-- Рыба -->
-		<Product name="Филе минтая" calories="72" protein="16.0" fat="0.9" carbs="0" />
-		<Product name="Горбуша" calories="140" protein="20.5" fat="6.5" carbs="0" />
-		<Product name="Семга" calories="208" protein="20.0" fat="13.6" carbs="0" />
-		<Product name="Треска" calories="78" protein="17.7" fat="0.7" carbs="0" />
-
-		<!-- Крупы и макароны -->
-		<Product name="Рис белый" calories="130" protein="2.7" fat="0.3" carbs="28.0" />
-		<Product name="Гречка" calories="132" protein="4.5" fat="2.3" carbs="25.0" />
-		<Product name="Овсянка" calories="88" protein="3.0" fat="1.7" carbs="15.0" />
-		<Product name="Макароны из твердых сортов" calories="350" protein="12.0" fat="1.5" carbs="71.0" />
-		<Product name="Перловка" calories="123" protein="3.1" fat="0.4" carbs="26.7" />
-		<Product name="Пшено" calories="90" protein="3.0" fat="0.8" carbs="17.5" />
-
-		<!-- Молочные продукты -->
-		<Product name="Молоко 2.5%" calories="52" protein="2.8" fat="2.5" carbs="4.7" />
-		<Product name="Творог 5%" calories="121" protein="15.0" fat="5.0" carbs="2.0" />
-		<Product name="Сметана 15%" calories="158" protein="2.5" fat="15.0" carbs="3.0" />
-		<Product name="Сыр твердый" calories="350" protein="25.0" fat="27.0" carbs="0" />
-
-		<!-- Яйца -->
-		<Product name="Яйцо куриное" calories="155" protein="12.7" fat="11.5" carbs="0.7" />
-
-		<!-- Масла и соусы -->
-		<Product name="Масло растительное" calories="899" protein="0" fat="99.9" carbs="0" />
-		<Product name="Масло сливочное" calories="748" protein="0.5" fat="82.5" carbs="0.8" />
-		<Product name="Томатная паста" calories="82" protein="4.8" fat="0.6" carbs="16.8" />
-
-		<!-- Зелень и специи -->
-		<Product name="Укроп" calories="40" protein="2.5" fat="0.5" carbs="6.3" />
-		<Product name="Петрушка" calories="36" protein="3.0" fat="0.8" carbs="6.3" />
-		<Product name="Чеснок" calories="149" protein="6.4" fat="0.5" carbs="33.0" />
-		<Product name="Лавровый лист" calories="313" protein="7.6" fat="8.4" carbs="74.2" />
-	</Products>
-
-	<Dishes>
-		<Dish name="Суп куриный с лапшой" price="16" inMenu="True" />
-		<Dish name="Борщ классический" price="12" inMenu="True" />
-		<Dish name="Гречка с курицей" price="16" inMenu="True" />
-		<Dish name="Рис с овощами" price="17" inMenu="True" />
-		<Dish name="Овощной салат" price="11" inMenu="True" />
-		<Dish name="Куриные котлеты" price="9" inMenu="True" />
-		<Dish name="Рыба с овощами" price="19" inMenu="True" />
-		<Dish name="Омлет с помидорами" price="12" inMenu="True" />
-		<Dish name="Творожная запеканка" price="13" inMenu="True" />
-		<Dish name="Каша овсяная с яблоком" price="10" inMenu="True" />
-		<Dish name="Винегрет" price="14" inMenu="True" />
-		<Dish name="Картофельное пюре с котлетой" price="18" inMenu="True" />
-		<Dish name="Запеченная семга" price="20" inMenu="True" />
-		<Dish name="Рагу из овощей" price="18" inMenu="True" />
-		<Dish name="Салат Цезарь" price="17" inMenu="True" />
-	</Dishes>
-
-	<Recipes>
-		<!-- Суп куриный с лапшой -->
-		<Recipe dishName="Суп куриный с лапшой">
-			<Ingredient productName="Куриное филе" quantity="150" processing="Варка" />
-			<Ingredient productName="Картофель" quantity="100" processing="Варка" />
-			<Ingredient productName="Морковь" quantity="30" processing="Пассерование" />
-			<Ingredient productName="Лук репчатый" quantity="30" processing="Пассерование" />
-			<Ingredient productName="Макароны из твердых сортов" quantity="50" processing="Варка" />
-			<Ingredient productName="Укроп" quantity="5" processing="Нарезка" />
-			<Ingredient productName="Масло растительное" quantity="5" processing="Пассерование" />
-		</Recipe>
-
-		<!-- Борщ классический -->
-		<Recipe dishName="Борщ классический">
-			<Ingredient productName="Говядина" quantity="150" processing="Варка" />
-			<Ingredient productName="Свекла" quantity="80" processing="Тушение" />
-			<Ingredient productName="Картофель" quantity="100" processing="Варка" />
-			<Ingredient productName="Капуста белокочанная" quantity="80" processing="Варка" />
-			<Ingredient productName="Морковь" quantity="30" processing="Пассерование" />
-			<Ingredient productName="Лук репчатый" quantity="30" processing="Пассерование" />
-			<Ingredient productName="Томатная паста" quantity="15" processing="Пассерование" />
-			<Ingredient productName="Масло растительное" quantity="10" processing="Пассерование" />
-			<Ingredient productName="Чеснок" quantity="5" processing="Нарезка" />
-		</Recipe>
-
-		<!-- Гречка с курицей -->
-		<Recipe dishName="Гречка с курицей">
-			<Ingredient productName="Куриное филе" quantity="150" processing="Жарка" />
-			<Ingredient productName="Гречка" quantity="100" processing="Варка" />
-			<Ingredient productName="Лук репчатый" quantity="30" processing="Жарка" />
-			<Ingredient productName="Морковь" quantity="30" processing="Жарка" />
-			<Ingredient productName="Масло растительное" quantity="10" processing="Жарка" />
-		</Recipe>
-
-		<!-- Рис с овощами -->
-		<Recipe dishName="Рис с овощами">
-			<Ingredient productName="Рис белый" quantity="80" processing="Варка" />
-			<Ingredient productName="Морковь" quantity="40" processing="Тушение" />
-			<Ingredient productName="Болгарский перец" quantity="40" processing="Тушение" />
-			<Ingredient productName="Кабачки" quantity="50" processing="Тушение" />
-			<Ingredient productName="Лук репчатый" quantity="30" processing="Тушение" />
-			<Ingredient productName="Масло растительное" quantity="10" processing="Тушение" />
-		</Recipe>
-
-		<!-- Овощной салат -->
-		<Recipe dishName="Овощной салат">
-			<Ingredient productName="Помидоры" quantity="80" processing="Нарезка" />
-			<Ingredient productName="Огурцы" quantity="80" processing="Нарезка" />
-			<Ingredient productName="Болгарский перец" quantity="50" processing="Нарезка" />
-			<Ingredient productName="Лук репчатый" quantity="20" processing="Нарезка" />
-			<Ingredient productName="Укроп" quantity="5" processing="Нарезка" />
-			<Ingredient productName="Масло растительное" quantity="10" processing="Смешивание" />
-		</Recipe>
-
-		<!-- Куриные котлеты -->
-		<Recipe dishName="Куриные котлеты">
-			<Ingredient productName="Куриное филе" quantity="200" processing="Измельчение" />
-			<Ingredient productName="Лук репчатый" quantity="30" processing="Измельчение" />
-			<Ingredient productName="Яйцо куриное" quantity="20" processing="Смешивание" />
-			<Ingredient productName="Масло растительное" quantity="15" processing="Жарка" />
-		</Recipe>
-
-		<!-- Рыба с овощами -->
-		<Recipe dishName="Рыба с овощами">
-			<Ingredient productName="Филе минтая" quantity="150" processing="Запекание" />
-			<Ingredient productName="Кабачки" quantity="80" processing="Запекание" />
-			<Ingredient productName="Помидоры" quantity="60" processing="Запекание" />
-			<Ingredient productName="Лук репчатый" quantity="30" processing="Запекание" />
-			<Ingredient productName="Масло растительное" quantity="10" processing="Запекание" />
-		</Recipe>
-
-		<!-- Омлет с помидорами -->
-		<Recipe dishName="Омлет с помидорами">
-			<Ingredient productName="Яйцо куриное" quantity="120" processing="Смешивание" />
-			<Ingredient productName="Молоко 2.5%" quantity="50" processing="Смешивание" />
-			<Ingredient productName="Помидоры" quantity="60" processing="Нарезка" />
-			<Ingredient productName="Масло сливочное" quantity="10" processing="Жарка" />
-		</Recipe>
-
-		<!-- Творожная запеканка -->
-		<Recipe dishName="Творожная запеканка">
-			<Ingredient productName="Творог 5%" quantity="200" processing="Смешивание" />
-			<Ingredient productName="Яйцо куриное" quantity="40" processing="Смешивание" />
-			<Ingredient productName="Молоко 2.5%" quantity="30" processing="Смешивание" />
-			<Ingredient productName="Масло сливочное" quantity="10" processing="Запекание" />
-		</Recipe>
-
-		<!-- Каша овсяная с яблоком -->
-		<Recipe dishName="Каша овсяная с яблоком">
-			<Ingredient productName="Овсянка" quantity="50" processing="Варка" />
-			<Ingredient productName="Молоко 2.5%" quantity="150" processing="Варка" />
-			<Ingredient productName="Яблоко" quantity="80" processing="Нарезка" />
-			<Ingredient productName="Масло сливочное" quantity="5" processing="Смешивание" />
-		</Recipe>
-
-		<!-- Винегрет -->
-		<Recipe dishName="Винегрет">
-			<Ingredient productName="Свекла" quantity="100" processing="Варка" />
-			<Ingredient productName="Картофель" quantity="80" processing="Варка" />
-			<Ingredient productName="Морковь" quantity="50" processing="Варка" />
-			<Ingredient productName="Огурцы соленые" quantity="60" processing="Нарезка" />
-			<Ingredient productName="Капуста белокочанная" quantity="50" processing="Нарезка" />
-			<Ingredient productName="Лук репчатый" quantity="30" processing="Нарезка" />
-			<Ingredient productName="Масло растительное" quantity="15" processing="Смешивание" />
-		</Recipe>
-
-		<!-- Картофельное пюре с котлетой -->
-		<Recipe dishName="Картофельное пюре с котлетой">
-			<Ingredient productName="Картофель" quantity="200" processing="Варка" />
-			<Ingredient productName="Молоко 2.5%" quantity="50" processing="Смешивание" />
-			<Ingredient productName="Масло сливочное" quantity="10" processing="Смешивание" />
-			<Ingredient productName="Куриное филе" quantity="100" processing="Жарка" />
-			<Ingredient productName="Лук репчатый" quantity="20" processing="Жарка" />
-			<Ingredient productName="Масло растительное" quantity="10" processing="Жарка" />
-		</Recipe>
-
-		<!-- Запеченная семга -->
-		<Recipe dishName="Запеченная семга">
-			<Ingredient productName="Семга" quantity="200" processing="Запекание" />
-			<Ingredient productName="Лимон" quantity="20" processing="Нарезка" />
-			<Ingredient productName="Укроп" quantity="5" processing="Нарезка" />
-			<Ingredient productName="Масло растительное" quantity="10" processing="Запекание" />
-		</Recipe>
-
-		<!-- Рагу из овощей -->
-		<Recipe dishName="Рагу из овощей">
-			<Ingredient productName="Картофель" quantity="100" processing="Тушение" />
-			<Ingredient productName="Кабачки" quantity="80" processing="Тушение" />
-			<Ingredient productName="Морковь" quantity="40" processing="Тушение" />
-			<Ingredient productName="Лук репчатый" quantity="30" processing="Тушение" />
-			<Ingredient productName="Капуста белокочанная" quantity="80" processing="Тушение" />
-			<Ingredient productName="Томатная паста" quantity="15" processing="Тушение" />
-			<Ingredient productName="Масло растительное" quantity="10" processing="Тушение" />
-		</Recipe>
-
-		<!-- Салат Цезарь -->
-		<Recipe dishName="Салат Цезарь">
-			<Ingredient productName="Куриное филе" quantity="100" processing="Жарка" />
-			<Ingredient productName="Салат Айсберг" quantity="80" processing="Нарезка" />
-			<Ingredient productName="Помидоры черри" quantity="50" processing="Нарезка" />
-			<Ingredient productName="Сыр твердый" quantity="30" processing="Нарезка" />
-			<Ingredient productName="Яйцо куриное" quantity="30" processing="Варка" />
-			<Ingredient productName="Масло растительное" quantity="15" processing="Смешивание" />
-		</Recipe>
-	</Recipes>
+  <Products>
+    <Product name="Картофель" calories="77" protein="2.0" fat="0.4" carbs="16.3" />
+    <Product name="Морковь" calories="41" protein="0.9" fat="0.1" carbs="9.6" />
+    <Product name="Лук репчатый" calories="40" protein="1.4" fat="0.2" carbs="8.2" />
+    <Product name="Капуста белокочанная" calories="25" protein="1.8" fat="0.1" carbs="4.7" />
+    <Product name="Свекла" calories="43" protein="1.5" fat="0.1" carbs="9.6" />
+    <Product name="Помидоры" calories="20" protein="0.9" fat="0.2" carbs="3.8" />
+    <Product name="Огурцы" calories="15" protein="0.7" fat="0.1" carbs="2.5" />
+    <Product name="Болгарский перец" calories="27" protein="1.0" fat="0.2" carbs="5.3" />
+    <Product name="Кабачки" calories="24" protein="0.6" fat="0.3" carbs="4.6" />
+    <Product name="Брокколи" calories="34" protein="2.8" fat="0.4" carbs="6.6" />
+    <Product name="Цветная капуста" calories="25" protein="1.9" fat="0.3" carbs="4.5" />
+    <Product name="Салат Айсберг" calories="15" protein="1.2" fat="0.2" carbs="2.9" />
+    <Product name="Огурцы соленые" calories="11" protein="0.8" fat="0.1" carbs="1.8" />
+    <Product name="Яблоко" calories="52" protein="0.3" fat="0.2" carbs="13.8" />
+    <Product name="Лимон" calories="29" protein="0.9" fat="0.3" carbs="9.3" />
+    <Product name="Куриное филе" calories="165" protein="31.0" fat="3.6" carbs="0" />
+    <Product name="Говядина" calories="250" protein="26.0" fat="15.0" carbs="0" />
+    <Product name="Свинина нежирная" calories="320" protein="25.0" fat="24.0" carbs="0" />
+    <Product name="Индейка" calories="160" protein="30.0" fat="3.8" carbs="0" />
+    <Product name="Кролик" calories="173" protein="21.0" fat="8.0" carbs="0" />
+    <Product name="Филе минтая" calories="72" protein="16.0" fat="0.9" carbs="0" />
+    <Product name="Горбуша" calories="140" protein="20.5" fat="6.5" carbs="0" />
+    <Product name="Семга" calories="208" protein="20.0" fat="13.6" carbs="0" />
+    <Product name="Треска" calories="78" protein="17.7" fat="0.7" carbs="0" />
+    <Product name="Рис белый" calories="130" protein="2.7" fat="0.3" carbs="28.0" />
+    <Product name="Гречка" calories="132" protein="4.5" fat="2.3" carbs="25.0" />
+    <Product name="Овсянка" calories="88" protein="3.0" fat="1.7" carbs="15.0" />
+    <Product name="Макароны из твердых сортов" calories="350" protein="12.0" fat="1.5" carbs="71.0" />
+    <Product name="Перловка" calories="123" protein="3.1" fat="0.4" carbs="26.7" />
+    <Product name="Пшено" calories="90" protein="3.0" fat="0.8" carbs="17.5" />
+    <Product name="Молоко 2.5%" calories="52" protein="2.8" fat="2.5" carbs="4.7" />
+    <Product name="Творог 5%" calories="121" protein="15.0" fat="5.0" carbs="2.0" />
+    <Product name="Сметана 15%" calories="158" protein="2.5" fat="15.0" carbs="3.0" />
+    <Product name="Сыр твердый" calories="350" protein="25.0" fat="27.0" carbs="0" />
+    <Product name="Яйцо куриное" calories="155" protein="12.7" fat="11.5" carbs="0.7" />
+    <Product name="Масло растительное" calories="899" protein="0" fat="99.9" carbs="0" />
+    <Product name="Масло сливочное" calories="748" protein="0.5" fat="82.5" carbs="0.8" />
+    <Product name="Томатная паста" calories="82" protein="4.8" fat="0.6" carbs="16.8" />
+    <Product name="Укроп" calories="40" protein="2.5" fat="0.5" carbs="6.3" />
+    <Product name="Петрушка" calories="36" protein="3.0" fat="0.8" carbs="6.3" />
+    <Product name="Чеснок" calories="149" protein="6.4" fat="0.5" carbs="33.0" />
+    <Product name="Лавровый лист" calories="313" protein="7.6" fat="8.4" carbs="74.2" />
+  </Products>
+  <Dishes>
+    <Dish name="Суп куриный с лапшой" price="16" />
+    <Dish name="Борщ классический" price="12" />
+    <Dish name="Гречка с курицей" price="16" />
+    <Dish name="Рис с овощами" price="17" />
+    <Dish name="Овощной салат" price="11" />
+    <Dish name="Куриные котлеты" price="9" />
+    <Dish name="Рыба с овощами" price="19" />
+    <Dish name="Омлет с помидорами" price="12" />
+    <Dish name="Творожная запеканка" price="13" />
+    <Dish name="Каша овсяная с яблоком" price="10" />
+    <Dish name="Винегрет" price="14" />
+    <Dish name="Картофельное пюре с котлетой" price="18" />
+    <Dish name="Запеченная семга" price="20" />
+    <Dish name="Рагу из овощей" price="18" />
+    <Dish name="Салат Цезарь" price="17" />
+    <Dish name="Какашка" price="1000" />
+  </Dishes>
+  <Recipes>
+    <Recipe dishName="Суп куриный с лапшой">
+      <Ingredient productName="Куриное филе" quantity="150" processing="Варка" />
+      <Ingredient productName="Картофель" quantity="100" processing="Варка" />
+      <Ingredient productName="Морковь" quantity="30" processing="Пассерование" />
+      <Ingredient productName="Лук репчатый" quantity="30" processing="Пассерование" />
+      <Ingredient productName="Макароны из твердых сортов" quantity="50" processing="Варка" />
+      <Ingredient productName="Укроп" quantity="5" processing="Нарезка" />
+      <Ingredient productName="Масло растительное" quantity="5" processing="Пассерование" />
+    </Recipe>
+    <Recipe dishName="Борщ классический">
+      <Ingredient productName="Говядина" quantity="150" processing="Варка" />
+      <Ingredient productName="Свекла" quantity="80" processing="Тушение" />
+      <Ingredient productName="Картофель" quantity="100" processing="Варка" />
+      <Ingredient productName="Капуста белокочанная" quantity="80" processing="Варка" />
+      <Ingredient productName="Морковь" quantity="30" processing="Пассерование" />
+      <Ingredient productName="Лук репчатый" quantity="30" processing="Пассерование" />
+      <Ingredient productName="Томатная паста" quantity="15" processing="Пассерование" />
+      <Ingredient productName="Масло растительное" quantity="10" processing="Пассерование" />
+      <Ingredient productName="Чеснок" quantity="5" processing="Нарезка" />
+    </Recipe>
+    <Recipe dishName="Гречка с курицей">
+      <Ingredient productName="Куриное филе" quantity="150" processing="Жарка" />
+      <Ingredient productName="Гречка" quantity="100" processing="Варка" />
+      <Ingredient productName="Лук репчатый" quantity="30" processing="Жарка" />
+      <Ingredient productName="Морковь" quantity="30" processing="Жарка" />
+      <Ingredient productName="Масло растительное" quantity="10" processing="Жарка" />
+    </Recipe>
+    <Recipe dishName="Рис с овощами">
+      <Ingredient productName="Рис белый" quantity="80" processing="Варка" />
+      <Ingredient productName="Морковь" quantity="40" processing="Тушение" />
+      <Ingredient productName="Болгарский перец" quantity="40" processing="Тушение" />
+      <Ingredient productName="Кабачки" quantity="50" processing="Тушение" />
+      <Ingredient productName="Лук репчатый" quantity="30" processing="Тушение" />
+      <Ingredient productName="Масло растительное" quantity="10" processing="Тушение" />
+    </Recipe>
+    <Recipe dishName="Овощной салат">
+      <Ingredient productName="Помидоры" quantity="80" processing="Нарезка" />
+      <Ingredient productName="Огурцы" quantity="80" processing="Нарезка" />
+      <Ingredient productName="Болгарский перец" quantity="50" processing="Нарезка" />
+      <Ingredient productName="Лук репчатый" quantity="20" processing="Нарезка" />
+      <Ingredient productName="Укроп" quantity="5" processing="Нарезка" />
+      <Ingredient productName="Масло растительное" quantity="10" processing="Смешивание" />
+    </Recipe>
+    <Recipe dishName="Куриные котлеты">
+      <Ingredient productName="Куриное филе" quantity="200" processing="Измельчение" />
+      <Ingredient productName="Лук репчатый" quantity="30" processing="Измельчение" />
+      <Ingredient productName="Яйцо куриное" quantity="20" processing="Смешивание" />
+      <Ingredient productName="Масло растительное" quantity="15" processing="Жарка" />
+    </Recipe>
+    <Recipe dishName="Рыба с овощами">
+      <Ingredient productName="Филе минтая" quantity="150" processing="Запекание" />
+      <Ingredient productName="Кабачки" quantity="80" processing="Запекание" />
+      <Ingredient productName="Помидоры" quantity="60" processing="Запекание" />
+      <Ingredient productName="Лук репчатый" quantity="30" processing="Запекание" />
+      <Ingredient productName="Масло растительное" quantity="10" processing="Запекание" />
+    </Recipe>
+    <Recipe dishName="Омлет с помидорами">
+      <Ingredient productName="Яйцо куриное" quantity="120" processing="Смешивание" />
+      <Ingredient productName="Молоко 2.5%" quantity="50" processing="Смешивание" />
+      <Ingredient productName="Помидоры" quantity="60" processing="Нарезка" />
+      <Ingredient productName="Масло сливочное" quantity="10" processing="Жарка" />
+    </Recipe>
+    <Recipe dishName="Творожная запеканка">
+      <Ingredient productName="Творог 5%" quantity="200" processing="Смешивание" />
+      <Ingredient productName="Яйцо куриное" quantity="40" processing="Смешивание" />
+      <Ingredient productName="Молоко 2.5%" quantity="30" processing="Смешивание" />
+      <Ingredient productName="Масло сливочное" quantity="10" processing="Запекание" />
+    </Recipe>
+    <Recipe dishName="Каша овсяная с яблоком">
+      <Ingredient productName="Овсянка" quantity="50" processing="Варка" />
+      <Ingredient productName="Молоко 2.5%" quantity="150" processing="Варка" />
+      <Ingredient productName="Яблоко" quantity="80" processing="Нарезка" />
+      <Ingredient productName="Масло сливочное" quantity="5" processing="Смешивание" />
+    </Recipe>
+    <Recipe dishName="Винегрет">
+      <Ingredient productName="Свекла" quantity="100" processing="Варка" />
+      <Ingredient productName="Картофель" quantity="80" processing="Варка" />
+      <Ingredient productName="Морковь" quantity="50" processing="Варка" />
+      <Ingredient productName="Огурцы соленые" quantity="60" processing="Нарезка" />
+      <Ingredient productName="Капуста белокочанная" quantity="50" processing="Нарезка" />
+      <Ingredient productName="Лук репчатый" quantity="30" processing="Нарезка" />
+      <Ingredient productName="Масло растительное" quantity="15" processing="Смешивание" />
+    </Recipe>
+    <Recipe dishName="Картофельное пюре с котлетой">
+      <Ingredient productName="Картофель" quantity="200" processing="Варка" />
+      <Ingredient productName="Молоко 2.5%" quantity="50" processing="Смешивание" />
+      <Ingredient productName="Масло сливочное" quantity="10" processing="Смешивание" />
+      <Ingredient productName="Куриное филе" quantity="100" processing="Жарка" />
+      <Ingredient productName="Лук репчатый" quantity="20" processing="Жарка" />
+      <Ingredient productName="Масло растительное" quantity="10" processing="Жарка" />
+    </Recipe>
+    <Recipe dishName="Запеченная семга">
+      <Ingredient productName="Семга" quantity="200" processing="Запекание" />
+      <Ingredient productName="Лимон" quantity="20" processing="Нарезка" />
+      <Ingredient productName="Укроп" quantity="5" processing="Нарезка" />
+      <Ingredient productName="Масло растительное" quantity="10" processing="Запекание" />
+    </Recipe>
+    <Recipe dishName="Рагу из овощей">
+      <Ingredient productName="Картофель" quantity="100" processing="Тушение" />
+      <Ingredient productName="Кабачки" quantity="80" processing="Тушение" />
+      <Ingredient productName="Морковь" quantity="40" processing="Тушение" />
+      <Ingredient productName="Лук репчатый" quantity="30" processing="Тушение" />
+      <Ingredient productName="Капуста белокочанная" quantity="80" processing="Тушение" />
+      <Ingredient productName="Томатная паста" quantity="15" processing="Тушение" />
+      <Ingredient productName="Масло растительное" quantity="10" processing="Тушение" />
+    </Recipe>
+    <Recipe dishName="Салат Цезарь">
+      <Ingredient productName="Куриное филе" quantity="100" processing="Жарка" />
+      <Ingredient productName="Салат Айсберг" quantity="80" processing="Нарезка" />
+      <Ingredient productName="Помидоры черри" quantity="50" processing="Нарезка" />
+      <Ingredient productName="Сыр твердый" quantity="30" processing="Нарезка" />
+      <Ingredient productName="Яйцо куриное" quantity="30" processing="Варка" />
+      <Ingredient productName="Масло растительное" quantity="15" processing="Смешивание" />
+    </Recipe>
+    <Recipe dishName="Какашка">
+      <Ingredient productName="Кабачки" quantity="100" processing="Пассерование" />
+      <Ingredient productName="Брокколи" quantity="100" processing="Жарка" />
+      <Ingredient productName="Цветная капуста" quantity="100" processing="Жарка" />
+    </Recipe>
+  </Recipes>
 </DietCanteen>

@@ -65,15 +65,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="AddDishWindow.xaml.cs">
-      <DependentUpon>AddDishWindow.xaml</DependentUpon>
-    </Compile>
     <Compile Include="DailyMenu.cs" />
     <Compile Include="RecipeDetail.cs" />
-    <Page Include="AddDishWindow.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

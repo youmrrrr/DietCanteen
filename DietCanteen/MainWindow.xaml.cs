@@ -62,7 +62,6 @@ namespace DietCanteen
                 LoadXmlData();
                 txtStatus.Text = $"XML загружен. Загружено {products.Count} продуктов, {dishes.Count} блюд.";
                 btnShowDishes.IsEnabled = true;
-                btnShowMenu.IsEnabled = true;
                 btnReset.IsEnabled = true;
                 btnLoad.IsEnabled = false;
 
@@ -148,7 +147,6 @@ namespace DietCanteen
                       {
                           Name = dishName,
                           Price = (decimal)d.Attribute("price"),
-                          InMenu = (bool)d.Attribute("inMenu"),
                           Calories = ingredients.Sum(i =>
                               productDict.ContainsKey(i.ProductName)
                               ? productDict[i.ProductName].Calories * i.Quantity / 100
@@ -296,8 +294,7 @@ namespace DietCanteen
                                   $"Калорийность: {selectedDish.Calories:F1} ккал\n" +
                                   $"Белки: {selectedDish.Protein:F1} г\n" +
                                   $"Жиры: {selectedDish.Fat:F1} г\n" +
-                                  $"Углеводы: {selectedDish.Carbs:F1} г\n" +
-                                  $"В меню: {(selectedDish.InMenu ? "Да" : "Нет")}";
+                                  $"Углеводы: {selectedDish.Carbs:F1} г\n";
             }
         }
 
@@ -666,7 +663,6 @@ namespace DietCanteen
                 {
                     Name = txtNewDishName.Text.Trim(),
                     Price = price,
-                    InMenu = chkNewInMenu.IsChecked ?? false,
                     Calories = calories,
                     Protein = protein,
                     Fat = fat,
@@ -700,7 +696,6 @@ namespace DietCanteen
         {
             txtNewDishName.Text = "";
             txtNewPrice.Text = "";
-            chkNewInMenu.IsChecked = false;
             newIngredients.Clear();
             dgNewIngredients.ItemsSource = null;
             dgNewIngredients.ItemsSource = newIngredients;
@@ -725,15 +720,6 @@ namespace DietCanteen
             txtStatus.Text = $"Показано {dishes.Count} блюд";
         }
 
-        private void btnShowMenu_Click(object sender, RoutedEventArgs e)
-        {
-            var menuDishes = dishes.Where(d => d.InMenu).ToList();
-            dgDishes.ItemsSource = null;
-            dgDishes.ItemsSource = menuDishes;
-            UpdateStatistics(menuDishes);
-            txtStatus.Text = $"Показано {menuDishes.Count} блюд из меню";
-        }
-
         private void btnReset_Click(object sender, RoutedEventArgs e)
         {
             dgDishes.ItemsSource = null;
@@ -744,7 +730,6 @@ namespace DietCanteen
 
             btnLoad.IsEnabled = true;
             btnShowDishes.IsEnabled = false;
-            btnShowMenu.IsEnabled = false;
             btnReset.IsEnabled = false;
         }
 
@@ -794,7 +779,6 @@ namespace DietCanteen
         private void UpdateStatistics(List<Dish> displayedDishes)
         {
             txtTotalDishes.Text = $"Всего блюд: {displayedDishes.Count}";
-            txtMenuDishes.Text = $"В меню: {displayedDishes.Count(d => d.InMenu)}";
             if (displayedDishes.Any())
             {
                 txtAvgCalories.Text = $"Средняя калорийность: {displayedDishes.Average(d => d.Calories):F0} ккал";
@@ -830,8 +814,7 @@ namespace DietCanteen
                 {
                     dishesElement.Add(new XElement("Dish",
                         new XAttribute("name", dish.Name),
-                        new XAttribute("price", dish.Price),
-                        new XAttribute("inMenu", dish.InMenu)
+                        new XAttribute("price", dish.Price)
                     ));
                 }
                 root.Add(dishesElement);
@@ -872,7 +855,6 @@ namespace DietCanteen
             txtCarbs.Text = "Углеводы: -";
             txtSelectedDish.Text = "Выберите блюдо из списка";
             txtTotalDishes.Text = "Всего блюд: -";
-            txtMenuDishes.Text = "В меню: -";
             txtAvgCalories.Text = "Средняя калорийность: -";
         }
 

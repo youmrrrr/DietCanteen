@@ -10,13 +10,9 @@ namespace DietCanteen
     {
         public string Name { get; set; }
         public decimal Price { get; set; }
-        public bool InMenu { get; set; }
         public decimal Calories { get; set; }
         public decimal Protein { get; set; }
         public decimal Fat { get; set; }
         public decimal Carbs { get; set; }
-
-        // Для отображения в DataGrid
-        public string InMenuText => InMenu ? "Да" : "Нет";
     }
 }
